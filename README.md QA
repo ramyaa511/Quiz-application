@@ -1,0 +1,16 @@
+# Quiz Application
+
+A simple Python quiz application using multiple-choice questions.
+
+## Features
+- MCQ Questions
+- Score Tracking
+- Instant Feedback
+
+## Technologies Used
+- Python
+
+## Run Project
+
+```bash
+python main.py
